@@ -1,7 +1,7 @@
 # About
 
 This project objective is implementing an agent that can act properly
-in the Pole Balancing controle problem defined in:
+in the Pole Balancing control problem defined in:
 
 https://webdocs.cs.ualberta.ca/~sutton/papers/barto-sutton-anderson-83.pdf
 
